@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Pride",
+        "descripcion": "serial killer americano",
+        "precio": "1",
+        "precioDescuento": "0",
+        "ofertaEspecial": false,
+        "categoria": "carniceria"
+    },
+    {
+        "nombre": "Ciudadano Z",
+        "descripcion": "asdasd",
+        "precio": "10",
+        "precioDescuento": "0",
+        "ofertaEspecial": false,
+        "categoria": "carniceria"
+    },
+    {
+        "nombre": "Ciudadano Z",
+        "descripcion": "asdasd",
+        "precio": "10",
+        "precioDescuento": "0",
+        "ofertaEspecial": false,
+        "categoria": "carniceria"
+    },
+    {
+        "nombre": "Libreta Blanca",
+        "descripcion": "dzvadf",
+        "precio": "12",
+        "precioDescuento": "12",
+        "ofertaEspecial": true,
+        "categoria": "carniceria"
+    },
+    {
+        "nombre": "Lentes de sol marca vertigo",
+        "descripcion": "asdasd",
+        "precio": "133",
+        "precioDescuento": "13",
+        "ofertaEspecial": false,
+        "categoria": "carniceria"
+    }
+]
